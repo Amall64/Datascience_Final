@@ -24,7 +24,7 @@ python PredictionModels.py
 - Feature space reduced using:
   - `SelectKBest (chi-square)`
  
-  - ### Experimental design
+  - ### Experimental designs
   
   - #### Experiment 1: Baseline Models
 - Random Forest
